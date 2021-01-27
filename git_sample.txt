@@ -10,6 +10,7 @@
 ホンダ
 	CBR
 	CB
+	GB
 カワサキ
 	Ninja
 	Z
