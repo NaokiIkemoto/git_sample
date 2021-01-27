@@ -9,9 +9,14 @@
 <バイクについて>
 ホンダ
 	CBR
+	CB
+	GB
 カワサキ
 	Ninja
+	Z
 スズキ
+	GSX-R
 	GSX
 ヤマハ
 	YZF
+	MT
